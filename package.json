@@ -7,7 +7,7 @@
     "author": "Henric Trotzig <henric.trotzig@gmail.com>",
     "license": "MIT",
     "dependencies": {
-        "puppeteer": "^2.1.1"
+        "puppeteer": "^13.0.1"
     },
     "devDependencies": {
         "@babel/core": "^7.10.2",
