@@ -54,6 +54,6 @@ module.exports = class PuppeteerDomProvider {
   }
 
   close() {
-    return this.browser.close();
+    return this.browser?.close();
   }
 };
